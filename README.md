@@ -1,4 +1,4 @@
-ddd
+Study
 
 <!---
 Magu4/Magu4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
